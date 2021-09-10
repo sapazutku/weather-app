@@ -1,4 +1,5 @@
 # weather-app
+https://sapazutku.github.io/weather-app/
 
 ## Project setup
 ```
