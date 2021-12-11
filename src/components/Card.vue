@@ -63,14 +63,14 @@ export default {
       city: "",
       iconUrl: "https://openweathermap.org/img/w/",
       weather: {
-        cityName: "İstanbul",
-        temprature: "30",
+        cityName: "",
+        temprature: "",
         country: "",
         description: "",
-        main: "Clouds",
+        main: "",
         min: "",
         max: "",
-        icon: "03d",
+        icon: "",
       },
       apikey: "d455992c154b750edc0787c95ed52fbd",
     };
