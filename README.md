@@ -1,6 +1,6 @@
 
 # weather-app
-src/assets/mobile.png
+![mobile](https://user-images.githubusercontent.com/64533036/145690734-05c5dccd-1f5b-44bc-911c-c1fbbfda9cfc.png)
 https://sapazutku.github.io/weather-app/
 
 ## Project setup
